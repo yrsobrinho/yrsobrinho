@@ -20,45 +20,10 @@ As a Software Engineer, I merge quantum technologies and Artificial Intelligence
 - Experience with version control (Git).
 
 ## ✦ Languages
-| Language              | Proficiency Level  |
-|-----------------------|--------------------|
-|  Portuguese           | Native             |
-| English               | Advanced           |
-| French                | Advanced           |
-| Spanish               | Advanced           |
-| Catalan               | Intermediate       |
-| German                | Intermediate       |
 
-<table style="border: 1px solid black; border-collapse: collapse; width: 100%;">
-  <tr>
-    <th style="border: 1px solid black; padding: 8px;">Language</th>
-    <th style="border: 1px solid black; padding: 8px;">Proficiency Level</th>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">English</td>
-    <td style="border: 1px solid black; padding: 8px;">Advanced</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">Portuguese</td>
-    <td style="border: 1px solid black; padding: 8px;">Native</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">French</td>
-    <td style="border: 1px solid black; padding: 8px;">Intermediate</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">German</td>
-    <td style="border: 1px solid black; padding: 8px;">Basic</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">Catalan</td>
-    <td style="border: 1px solid black; padding: 8px;">Basic</td>
-  </tr>
-  <tr>
-    <td style="border: 1px solid black; padding: 8px;">Spanish</td>
-    <td style="border: 1px solid black; padding: 8px;">Intermediate</td>
-  </tr>
-</table>
+**Native:** Portuguese 
+**Advanced:** English, Spanish, and French
+**Intermediate:** German and Catalan
 
 ## ✦ Goals
 
