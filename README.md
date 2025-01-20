@@ -1,26 +1,26 @@
-# Sobre mim
+# About Me
 
-Sou Desenvolvedora de Softwares com foco em tecnologias quânticas e Inteligência Artificial, explorando soluções inovadoras em Visão Computacional. Atualmente, sou pesquisadora no Recogna Laboratory e estudante de Sistemas de Informação. Minha paixão é unir o poder da computação quântica com IA para resolver problemas complexos de maneira eficiente e criativa.
+As a Software Developer, I merge quantum technologies and Artificial Intelligence to craft innovative solutions in Computer Vision. With a role as a researcher at the Recogna Laboratory and my academic journey in Information Systems, I thrive on solving complex challenges through the synergy of quantum computing and AI.
 
-## Habilidades
+## Skills
 
-### ⚛️ Computação Quântica
-- Desenvolvimento de algoritmos quânticos.
-- Familiaridade com frameworks como Qiskit e Pennylane.
-- Simulação de circuitos quânticos e execução em hardwares quânticos reais.
+### ⚛️ Quantum Computing
+- Development of quantum algorithms.
+- Familiarity with frameworks such as Qiskit and Pennylane.
+- Simulation of quantum circuits and execution on real quantum hardware.
 
-### 🤖 Inteligência Artificial e Visão Computacional
-- Modelagem de redes neurais para análise de imagens.
-- Experiência com bibliotecas como PyTorch e OpenCV.
-- Implementação de soluções baseadas em aprendizado profundo para classificação e detecção de objetos.
+### 🤖 Artificial Intelligence and Computer Vision
+- Neural network modeling for image analysis.
+- Experience with libraries such as PyTorch and OpenCV.
+- Implementation of deep learning-based solutions for object classification and detection.
 
-### 🚀 Desenvolvimento de Software
-- Criação de aplicações robustas e escaláveis.
-- Utilização de práticas ágeis no desenvolvimento.
-- Experiência com controle de versão (Git).
+### 🚀 Software Development
+- Creation of robust and scalable applications.
+- Use of agile practices in development.
+- Experience with version control (Git).
 
-## Objetivos
+## Goals
 
-- Avançar no uso de tecnologias quânticas aplicadas a problemas do mundo real.
-- Promover o uso de soluções de IA em áreas de impacto social.
+- Advance the use of quantum technologies applied to real-world problems.
+- Promote the use of AI solutions in areas of social impact.
 
