@@ -22,7 +22,9 @@ As a Software Engineer, I merge quantum technologies and Artificial Intelligence
 ## ✦ Languages
 
 **Native:** Portuguese 
+
 **Advanced:** English, Spanish, and French
+
 **Intermediate:** German and Catalan
 
 ## ✦ Goals
