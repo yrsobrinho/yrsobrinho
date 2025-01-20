@@ -1,3 +1,5 @@
+# About Me
+
 As a Software Engineer, I merge quantum technologies and Artificial Intelligence to craft innovative solutions in Computer Vision. I thrive on solving complex challenges through the synergy of quantum computing and AI.
 
 ## ✦ Skills
@@ -15,7 +17,7 @@ As a Software Engineer, I merge quantum technologies and Artificial Intelligence
 ### ➥ Software Development
 - Creation of robust and scalable applications.
 - Use of agile practices in development.
-- Experience with version control (Git).
+- Experience with version control.
 
 ## ✦ Languages
 
