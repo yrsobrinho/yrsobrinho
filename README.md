@@ -19,8 +19,23 @@ As a Software Engineer, I merge quantum technologies and Artificial Intelligence
 - Use of agile practices in development.
 - Experience with version control (Git).
 
+### 🌍 Languages
+| Language              | Proficiency Level  |
+|-----------------------|--------------------|
+|  Portuguese           | Native             |
+| English               | Advanced           |
+| French                | Advanced           |
+| Spanish               | Advanced           |
+| Catalan               | Intermediate       |
+| German                | Intermediate       |
+
 ## Goals
 
 - Advance the use of quantum technologies applied to real-world problems.
 - Promote the use of AI solutions in areas of social impact.
+
+
+
+
+
 
