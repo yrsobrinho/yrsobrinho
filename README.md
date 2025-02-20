@@ -16,10 +16,6 @@ As a Quantum Machine Learning Engineer, I merge quantum technologies and Artific
 
 **Intermediate:** German and Catalan
 
-## ✦ Goals
-
-- Advance the use of quantum technologies applied to real-world problems.
-- Promote the use of AI solutions in areas of social impact.
 
 
 
