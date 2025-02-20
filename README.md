@@ -4,20 +4,9 @@ As a Quantum Machine Learning Engineer, I merge quantum technologies and Artific
 
 ## ✦ Skills
 
-### ➥ Quantum Computing
-- Development of quantum algorithms.
-- Familiarity with frameworks such as Qiskit and Pennylane.
-- Simulation of quantum circuits and execution on real quantum hardware.
-
-### ➥ Artificial Intelligence and Computer Vision
-- Neural network modeling for image analysis.
-- Experience with libraries such as PyTorch and OpenCV.
-- Implementation of deep learning-based solutions for object classification and detection.
-
-### ➥ Software Development
-- Creation of robust and scalable applications.
-- Use of agile practices in development.
-- Experience with version control.
+- Quantum Computing: Experience with quantum algorithms, Qiskit, Pennylane, and circuit simulation on real hardware.
+- AI & Computer Vision: Neural networks for image analysis, deep learning with PyTorch & OpenCV, and object detection.
+- Software Development: Building scalable applications with agile methodologies and version control.
 
 ## ✦ Languages
 
