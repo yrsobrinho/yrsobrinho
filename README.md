@@ -34,5 +34,3 @@ Curiosity has guided my academic path since the beginning. I enjoy learning, exp
         />
     </a>
 </p>
-
-<br/><br/>
