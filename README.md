@@ -2,8 +2,6 @@
 
 Hello! I'm an undergraduate researcher in Quantum Machine Learning at the Recogna Laboratory, where I work on hybrid quantum-classical models applied to medical imaging. My current projects explore quantum convolutional layers, feature-fusion strategies, and efficient architectures aimed at improving breast cancer detection with fewer parameters than classical models. I am also pursuing a degree in Information Systems at São Paulo State University (UNESP).
 
-Curiosity has guided my academic path since the beginning. I enjoy learning, experimenting, and tackling challenges that require creativity and technical depth. I am motivated by the possibility of contributing to meaningful applications of quantum technologies and by the long-term impact that research can have in medicine and beyond.
-
 
 <p align="left">
     <img 
